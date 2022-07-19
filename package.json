@@ -1,13 +1,17 @@
 {
-  "name": "stackos",
-  "version": "1.0.0",
+  "name": "stackos-manon",
+  "version": "1.1.0",
   "description": "simple OS info - demo module",
   "main": "stackos.js",
   "repository": "https://github.com/MAnonInfinity/stackos-learning-yarn.git",
   "bugs": "https://github.com/MAnonInfinity/stackos-learning-yarn/issues",
   "author": "Manan Varma <mananvarma5401@gmail.com>",
   "license": "MIT",
-  "keywords": ["os", "demo", "yarn course"],
+  "keywords": [
+    "os",
+    "demo",
+    "yarn course"
+  ],
   "dependencies": {
     "chalk": "^2.3.0"
   }
